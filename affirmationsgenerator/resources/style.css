@@ -1,0 +1,43 @@
+* {
+
+    background-color: lightblue;
+  }
+
+  body {
+    padding: 50px 100px;
+  }
+   
+   
+  h1 {
+    color: rgb(48, 114, 168);
+    font-size: 90;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+   
+   
+  p, 
+  li {
+    font-size: 18px;
+    text-align: left;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
+
+.button1 {
+    width: 210px;
+    color: darkslategray;
+    border-radius: 10%;
+    background-color: cornflowerblue;
+    border-color: lightblue;
+    box-shadow: none;
+  
+}
+
+.button1:hover {
+    background-color: plum;
+    color: red;
+}
